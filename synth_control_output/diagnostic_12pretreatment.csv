@@ -1,4 +1,4 @@
-series_id,synth_control_type,p_value_<=0.05,p_value_<=0.1,R^2
+"series_id","synth_control_type","p_value_<=0.05","p_value_<=0.1","R^2"
 1,T_predictors,0,0,0,919434845
 1,F_predictors,0,0,0,917690338
 1,ALL_predictors,0,0,0,925542498
